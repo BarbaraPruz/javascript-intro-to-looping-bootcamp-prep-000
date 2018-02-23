@@ -15,6 +15,6 @@ function whileLoop (n) {
 
 function doWhileLoop(arr) {
   do {
-    all.
+    arr.pop();
   } while ((arr.length > 0) && maybeTrue())
 }
